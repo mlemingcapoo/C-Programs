@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
+
 //Khai báo biến string cho menu
 char mn[]="	||	||\n		||	||\n	+===Menu Chuong Trinh===+";
 char mn1[]="1.Tinh trung binh cong";
