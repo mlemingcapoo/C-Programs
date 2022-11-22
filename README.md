@@ -1,4 +1,5 @@
-# C-Programs
+# <b>C-Programs</b>
 console programs that I made while studying C or maybe C++
 
-yeah i'm still a noob lol
+yeah i'm still a <i>noob</i> lol
+btw only use devC++ to run these code 
